@@ -15,7 +15,6 @@ module.exports = {
   "plugins": [
     "babel",
     "import",
-    "security",
     "jest"
   ],
   "rules": {
