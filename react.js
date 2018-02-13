@@ -1,13 +1,14 @@
 module.exports = {
   "extends": [
-    "airbnb"
+    "airbnb",
+    "plugin:prettier/recommended"
   ],
   "env": {
     "browser": true
   },
   "parserOptions": {
     "ecmaFeatures": {
-      "jsx": true,
+      "jsx": true
     }
   },
   "rules": {
