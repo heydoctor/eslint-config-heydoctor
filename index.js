@@ -60,5 +60,10 @@ module.exports = {
       "bracketSpacing": true,
       "jsxBracketSameLine": true
     }]
+  },
+  "settings": {
+    "import/resolver": {
+      "babel-module": {}
+    }
   }
 }
