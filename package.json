@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-sappira",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Sappira Javascript Standards",
   "main": "index.js",
   "author": "Kyle Alwyn <kjalwyn@gmail.com>",
