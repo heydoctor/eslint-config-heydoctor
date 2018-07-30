@@ -14,7 +14,6 @@ module.exports = {
   },
   "plugins": [
     "babel",
-    "import",
     "jest"
   ],
   "rules": {
@@ -34,10 +33,6 @@ module.exports = {
       }
     ],
 
-    // Configure import
-    "import/prefer-default-export": 0,
-    "import/no-extraneous-dependencies": 0,
-
     // Configure babel
     "babel/new-cap": 1,
 
@@ -55,10 +50,5 @@ module.exports = {
       "bracketSpacing": true,
       "jsxBracketSameLine": true
     }]
-  },
-  "settings": {
-    "import/resolver": {
-      "babel-module": {}
-    }
   }
 }

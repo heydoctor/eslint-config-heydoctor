@@ -5,25 +5,29 @@
   "main": "index.js",
   "author": "Kyle Alwyn <kjalwyn@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "release": "standard-version && git push --follow-tags"
+  },
   "files": [
     "index.js",
     "node.js",
     "react.js"
   ],
   "dependencies": {
-    "babel-eslint": "^8.2.1",
-    "eslint": "^4.17.0",
-    "eslint-config-airbnb": "^16.1.0",
-    "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-config-prettier": "^2.9.0",
-    "eslint-import-resolver-babel-module": "2.2.1",
-    "eslint-plugin-babel": "^4.1.2",
-    "eslint-plugin-flowtype": "^2.43.0",
-    "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-jest": "^21.12.0",
-    "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-prettier": "^2.6.0",
-    "eslint-plugin-react": "^7.6.1",
-    "prettier": "^1.10.2"
+    "babel-eslint": "8.2.6",
+    "eslint": "4.17.0",
+    "eslint-config-airbnb": "16.1.0",
+    "eslint-config-airbnb-base": "12.1.0",
+    "eslint-config-prettier": "2.9.0",
+    "eslint-plugin-babel": "4.1.2",
+    "eslint-plugin-flowtype": "2.50.0",
+    "eslint-plugin-jest": "21.18.0",
+    "eslint-plugin-jsx-a11y": "6.1.1",
+    "eslint-plugin-prettier": "2.6.2",
+    "eslint-plugin-react": "7.10.0",
+    "prettier": "1.14.0"
+  },
+  "devDependencies": {
+    "standard-version": "^4.4.0"
   }
 }
