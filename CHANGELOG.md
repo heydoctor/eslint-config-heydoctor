@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.6.3"></a>
+## [1.6.3](https://github.com/sappira-inc/eslint-config-sappira/compare/v1.6.2...v1.6.3) (2018-07-30)
+
+
+### Bug Fixes
+
+* Move prettier plugin to react/node configs ([2504cb3](https://github.com/sappira-inc/eslint-config-sappira/commit/2504cb3))
+
+
+
 <a name="1.6.2"></a>
 ## [1.6.2](https://github.com/sappira-inc/eslint-config-sappira/compare/v1.6.1...v1.6.2) (2018-07-30)
 
