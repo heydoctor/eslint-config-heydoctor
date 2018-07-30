@@ -9,6 +9,7 @@ module.exports = {
     },
   },
   rules: {
+    'import/no-unresolved': 0,
     'react/jsx-filename-extension': 0,
     'react/require-default-props': 0,
     'react/sort-comp': 0,
