@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.6.5"></a>
+## [1.6.5](https://github.com/sappira-inc/eslint-config-sappira/compare/v1.6.4...v1.6.5) (2018-08-09)
+
+
+### Bug Fixes
+
+* Bump prettier and eslint-jest ([8289eec](https://github.com/sappira-inc/eslint-config-sappira/commit/8289eec))
+
+
+
 <a name="1.6.4"></a>
 ## [1.6.4](https://github.com/sappira-inc/eslint-config-sappira/compare/v1.6.3...v1.6.4) (2018-08-09)
 
