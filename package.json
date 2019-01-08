@@ -9,9 +9,8 @@
     "release": "standard-version && git push --follow-tags"
   },
   "files": [
-    "index.js",
-    "node.js",
-    "react.js"
+    "node.json",
+    "react.json"
   ],
   "dependencies": {
     "babel-eslint": "^8.2.6",
