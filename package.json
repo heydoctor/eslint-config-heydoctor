@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-sappira",
+  "name": "eslint-config-heydoctor",
   "version": "2.0.2",
-  "description": "Sappira Javascript Standards",
+  "description": "HeyDoctor Javascript Standards",
   "main": "index.js",
   "author": "Kyle Alwyn <kjalwyn@gmail.com>",
   "license": "MIT",
@@ -13,18 +13,18 @@
     "react.json"
   ],
   "dependencies": {
-    "babel-eslint": "^9.0.0",
-    "eslint": "^4.19.1",
-    "eslint-config-airbnb": "^16.0.0",
-    "eslint-config-prettier": "^2.9.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.1.0",
     "eslint-plugin-babel": "^5.1.0",
     "eslint-plugin-flowtype": "^2.50.0",
     "eslint-plugin-import": "^2.13.0",
-    "eslint-plugin-jest": "^21.20.2",
+    "eslint-plugin-jest": "^22.3.2",
     "eslint-plugin-jsx-a11y": "^6.1.1",
-    "eslint-plugin-prettier": "^2.6.2",
-    "eslint-plugin-react": "^7.10.0",
-    "prettier": "^1.14.2"
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.11.0",
+    "prettier": "^1.16.4"
   },
   "devDependencies": {
     "standard-version": "^4.4.0"
