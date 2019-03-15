@@ -2,4 +2,4 @@
 > HeyDoctor Javascript standards
 
 ## Proposals
-Create an issue with your proposal. If the discussion leads to adding the change, create a PR!
+[Create an issue](https://github.com/heydoctor/eslint-config-heydoctor/issues/new) with your proposal. If the discussion leads to adding the change, [create a PR](https://github.com/heydoctor/eslint-config-heydoctor/compare)!
