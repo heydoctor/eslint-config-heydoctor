@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-heydoctor",
-  "version": "2.0.2",
+  "version": "3.0.0",
   "description": "HeyDoctor Javascript Standards",
   "main": "index.js",
   "author": "Kyle Alwyn <kjalwyn@gmail.com>",

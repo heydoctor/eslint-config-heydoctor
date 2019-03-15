@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.0.0"></a>
+# [3.0.0](https://github.com/sappira-inc/eslint-config-sappira/compare/v2.0.2...v3.0.0) (2019-03-15)
+
+
+### Bug Fixes
+
+* package.json to reduce vulnerabilities ([#2](https://github.com/sappira-inc/eslint-config-sappira/issues/2)) ([bebca82](https://github.com/sappira-inc/eslint-config-sappira/commit/bebca82))
+
+
+### Features
+
+* Upstream rules from EMR and webapp ([#3](https://github.com/sappira-inc/eslint-config-sappira/issues/3)) ([bcb5731](https://github.com/sappira-inc/eslint-config-sappira/commit/bcb5731))
+
+
+
 <a name="2.0.2"></a>
 ## [2.0.2](https://github.com/sappira-inc/eslint-config-sappira/compare/v2.0.1...v2.0.2) (2019-01-08)
 
