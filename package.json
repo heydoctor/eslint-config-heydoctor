@@ -17,7 +17,7 @@
     "@typescript-eslint/parser": "^2.16.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.15.1",
-    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb": "^17.1.1",
     "eslint-config-prettier": "^4.1.0",
     "eslint-plugin-babel": "^5.1.0",
     "eslint-plugin-flowtype": "^2.50.0",
@@ -26,9 +26,10 @@
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-prettier": "^3.0.1",
     "eslint-plugin-react": "^7.11.0",
+    "eslint-plugin-react-hooks": "^2.5.0",
     "prettier": "^1.19.1"
   },
   "devDependencies": {
-    "standard-version": "^4.4.0"
+    "standard-version": "^7.1.0"
   }
 }
