@@ -22,7 +22,7 @@
   },
   "plugins": ["babel", "jest", "react-hooks"],
   "rules": {
-    "no-use-before-define": 0,
+    "no-use-before-define": "warn",
     "no-empty": 0,
     "no-unused-vars": "off",
     "no-restricted-syntax": 0,
