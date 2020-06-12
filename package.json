@@ -14,7 +14,7 @@
     "react-ts.json"
   ],
   "dependencies": {
-    "@typescript-eslint/parser": "^2.16.0",
+    "@typescript-eslint/parser": "^2.34.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.15.1",
     "eslint-config-airbnb": "^17.1.1",
